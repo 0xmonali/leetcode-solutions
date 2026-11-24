@@ -5,18 +5,18 @@ class Solution {
         int ans = nums[0];
 
         for (int i = 1; i < nums.length; i++){
-            int num = nums[i];
             
-            if (num < 0) {
+            if (nums[i] < 0) {
                 int temp = max;
                 max = min;
                 min = temp;
             }
 
-            max = Math.max(num, max*num);
-            min = Math.min(num, min*num);
+            
+            max = (nums[i] > max*nums[i]) ? nums[i] : max*nums[i] ;
+            min = (nums[i] < min*nums[i]) ? nums[i] : min*nums[i];
 
-            ans = Math.max(max, ans);
+            ans = (ans > max) ? ans : max;
         }
 
         return ans;
