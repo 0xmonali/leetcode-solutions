@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/0xmonali/leetcode-solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/0xmonali/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/0xmonali/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/0xmonali/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/0xmonali/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/0xmonali/leetcode-solutions/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/0xmonali/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/0xmonali/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
