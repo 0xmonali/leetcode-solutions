@@ -14,6 +14,7 @@
 | [0152-maximum-product-subarray](https://github.com/0xmonali/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/0xmonali/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/0xmonali/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/0xmonali/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/0xmonali/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/0xmonali/leetcode-solutions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/0xmonali/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +76,28 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/0xmonali/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/0xmonali/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/0xmonali/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/0xmonali/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/0xmonali/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/0xmonali/leetcode-solutions/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/0xmonali/leetcode-solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
